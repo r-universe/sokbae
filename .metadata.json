@@ -1,10 +1,10 @@
 [
   {
-    "package": "sketching",
+    "package": "ciccr",
     "oncran": true
   },
   {
-    "package": "ciccr",
+    "package": "sketching",
     "oncran": true
   }
 ]
