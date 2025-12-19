@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ciccr"]
-	path = ciccr
-	url = https://github.com/sokbae/ciccr
 [submodule "sketching"]
 	path = sketching
 	url = https://github.com/sokbae/sketching
